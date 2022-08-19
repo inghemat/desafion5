@@ -249,4 +249,42 @@ body {
     display: inline;
 }
 
+strong text {
+    font-size: x-small;
+}
+
+.divuno h1 {
+    color: #fff;
+}
+
+.divuno {
+    height: 200px;
+    background-color: #444444;
+    transition: height 0.1s; width: 0.8s;
+}
+
+.divuno:hover {
+    background-color: #df840d;
+    height: 120px;
+}
+
+.divdos {
+    background-color: violet;
+    height: 200px;
+}
+
+.divdos:hover {
+    background-image: url(../Imagenes/perroperezoso.jpg);
+    height: 220px;
+}
+
+.divtres {
+    background-color: rgb(41, 23, 199);
+    height: 200px;
+}
+
+.divtres:hover {
+    background-image: url(../Imagenes/perroplayero.jpg);
+    height: 220px;
+}
 
